@@ -1,0 +1,5 @@
+priority_segment,disease_count,avg_gene_count,avg_prevalence,avg_priority_score,anomaly_count
+Low Priority,3737,0.276,0.259,0.215,61
+Moderate Priority,2216,1.205,3.235,0.386,25
+High Priority,1116,1.395,20.636,0.441,16
+Critical Priority,372,3.487,169.42,0.497,47
