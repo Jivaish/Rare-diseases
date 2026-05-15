@@ -1,4 +1,4 @@
-sql lite
+sql 
 numpy
 pandas
 matplotlib
