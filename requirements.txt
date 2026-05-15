@@ -1,1 +1,6 @@
-
+sql lite
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
